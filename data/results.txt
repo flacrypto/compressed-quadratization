@@ -1,0 +1,175 @@
+degree is 1
+generating 20.0 terms
+degree is 2
+generating 190.0 terms
+degree is 3
+generating 76.4 terms
+inside else block
+degree is 4
+generating 0.0 terms
+inside generate some more, terms_in_deg 50, deg 4, upperbound check 484.5
+Term counts original
+{1: 20, 2: 190, 3: 77, 4: 50, 5: 49, 6: 43, 7: 39, 8: 37, 9: 30, 10: 26, 11: 24, 12: 18, 13: 12, 14: 12, 15: 11, 16: 3}
+Number of Variables original: 20
+Term counts after preprocessing
+{1: 15, 2: 105, 3: 60, 4: 53, 5: 49, 6: 49, 7: 48, 8: 37, 13: 2, 10: 23, 9: 20, 11: 12, 12: 4}
+Number of Variables: 15
+Term counts after Conversion. Ising conversion, heursum False
+{1: 561, 2: 2028}
+Number of Variables: 561
+Term counts after Conversion. Ising conversion, heursum True
+{1: 585, 2: 2100}
+Number of Variables: 585
+Term counts after Conversion. Boolean conversion, heursum False
+{1: 597, 2: 25428}
+Number of Variables: 597
+Term counts after Conversion. Boolean conversion, heursum True
+{1: 583, 2: 25400}
+Number of Variables: 583
+
+
+degree is 1
+generating 20.0 terms
+degree is 2
+generating 190.0 terms
+degree is 3
+generating 76.4 terms
+inside else block
+degree is 4
+generating 0.0 terms
+inside generate some more, terms_in_deg 50, deg 4, upperbound check 484.5
+Term counts original
+{1: 20, 2: 190, 3: 77, 4: 50, 5: 41, 6: 34, 7: 30, 8: 20, 9: 17, 10: 8, 11: 4, 12: 4}
+Number of Variables original: 20
+Term counts after preprocessing
+{1: 14, 2: 91, 3: 60, 4: 55, 5: 38, 6: 31, 8: 5, 9: 6, 7: 10}
+Number of Variables: 14
+Term counts after Conversion. Ising conversion, heursum False
+{1: 274, 2: 1016}
+Number of Variables: 274
+Term counts after Conversion. Ising conversion, heursum True
+{1: 278, 2: 1029}
+Number of Variables: 278
+Term counts after Conversion. Boolean conversion, heursum False
+{1: 303, 2: 3970}
+Number of Variables: 303
+Term counts after Conversion. Boolean conversion, heursum True
+{1: 314, 2: 3992}
+Number of Variables: 314
+
+degree is 1
+generating 30.0 terms
+degree is 2
+generating 435.0 terms
+degree is 3
+generating 272.1 terms
+inside else block
+degree is 4
+generating 0.0 terms
+inside generate some more, terms_in_deg 50, deg 4, upperbound check 2740.5
+Term counts original
+{1: 30, 2: 435, 3: 273, 4: 50, 5: 50, 6: 42, 7: 35, 8: 27, 9: 26, 10: 23, 11: 22, 12: 18, 13: 15, 14: 12, 15: 10, 16: 10, 17: 8}
+Number of Variables original: 30
+Term counts after preprocessing
+{1: 17, 2: 136, 3: 98, 4: 61, 5: 50, 7: 28, 8: 22, 6: 30, 9: 23, 11: 3, 12: 1, 10: 6, 13: 2}
+Number of Variables: 17
+Term counts after Conversion. Ising conversion, heursum False
+{1: 545, 2: 1948}
+Number of Variables: 545
+Term counts after Conversion. Ising conversion, heursum True
+{1: 541, 2: 1948}
+Number of Variables: 541
+Term counts after Conversion. Boolean conversion, heursum False
+{1: 1034, 2: 30155}
+Number of Variables: 1034
+Term counts after Conversion. Boolean conversion, heursum True
+{1: 1003, 2: 30093}
+Number of Variables: 1003
+
+degree is 1
+generating 30.0 terms
+degree is 2
+generating 435.0 terms
+degree is 3
+generating 272.1 terms
+inside else block
+degree is 4
+generating 0.0 terms
+inside generate some more, terms_in_deg 50, deg 4, upperbound check 2740.5
+Term counts original
+{1: 30, 2: 435, 3: 273, 4: 50, 5: 49, 6: 43, 7: 41, 8: 40, 9: 34, 10: 28, 11: 26, 12: 18, 13: 11, 14: 10, 15: 1}
+Number of Variables original: 30
+Term counts after preprocessing
+{1: 18, 2: 153, 3: 130, 4: 66, 5: 50, 6: 41, 7: 35, 10: 4, 9: 12, 8: 14, 11: 2}
+Number of Variables: 18
+Term counts after Conversion. Ising conversion, heursum False
+{1: 512, 2: 1893}
+Number of Variables: 512
+Term counts after Conversion. Ising conversion, heursum True
+{1: 526, 2: 1940}
+Number of Variables: 526
+Term counts after Conversion. Boolean conversion, heursum False
+{1: 751, 2: 14646}
+Number of Variables: 751
+Term counts after Conversion. Boolean conversion, heursum True
+{1: 800, 2: 14744}
+Number of Variables: 800
+
+degree is 1
+generating 30.0 terms
+degree is 2
+generating 435.0 terms
+degree is 3
+generating 272.1 terms
+inside else block
+degree is 4
+generating 0.0 terms
+inside generate some more, terms_in_deg 50, deg 4, upperbound check 2740.5
+Term counts original
+{1: 30, 2: 435, 3: 273, 4: 50, 5: 46, 6: 45, 7: 42, 8: 42, 9: 36, 10: 26, 11: 23, 12: 18, 13: 15, 14: 10}
+Number of Variables original: 30
+Term counts after preprocessing
+{1: 20, 2: 190, 3: 114, 4: 65, 5: 58, 6: 50, 7: 44, 8: 24, 12: 2, 9: 23, 10: 7}
+Number of Variables: 20
+Term counts after Conversion. Ising conversion, heursum False
+{1: 706, 2: 2524}
+Number of Variables: 706
+Term counts after Conversion. Ising conversion, heursum True
+{1: 716, 2: 2553}
+Number of Variables: 716
+Term counts after Conversion. Boolean conversion, heursum False
+{1: 1478, 2: 26625}
+Number of Variables: 1478
+Term counts after Conversion. Boolean conversion, heursum True
+{1: 1414, 2: 26497}
+Number of Variables: 1414
+
+degree is 1
+generating 20.0 terms
+degree is 2
+generating 190.0 terms
+degree is 3
+generating 76.4 terms
+inside else block
+degree is 4
+generating 0.0 terms
+inside generate some more, terms_in_deg 50, deg 4, upperbound check 484.5
+Term counts original
+{1: 20, 2: 190, 3: 77, 4: 50, 5: 43, 6: 35, 7: 34, 8: 31, 9: 31, 10: 30, 11: 25, 12: 25, 13: 25, 14: 21, 15: 19, 16: 11, 17: 7, 18: 1}
+Number of Variables original: 20
+Term counts after preprocessing
+{1: 15, 2: 105, 3: 62, 4: 47, 5: 52, 6: 33, 7: 46, 8: 49, 10: 22, 9: 26, 11: 26, 12: 17, 13: 7, 14: 1}
+Number of Variables: 15
+Term counts after Conversion. Ising conversion, heursum False
+{1: 621, 2: 2236}
+Number of Variables: 621
+Term counts after Conversion. Ising conversion, heursum True
+{1: 629, 2: 2259}
+Number of Variables: 629
+Term counts after Conversion. Boolean conversion, heursum False
+{1: 730, 2: 32699}
+Number of Variables: 730
+Term counts after Conversion. Boolean conversion, heursum True
+{1: 1035, 2: 33309}
+Number of Variables: 1035
+
