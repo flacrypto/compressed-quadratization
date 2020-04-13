@@ -1,4 +1,4 @@
-# Compressed Quadratization of Higher Order BinaryOptimization Problem
+# Compressed Quadratization of Higher Order Binary Optimization Problem
 
 This package is referene to the manuscript titled Compressed Quadratization of Higher Order BinaryOptimization Problem by Avradip Mandal, Arnab Roy, Sarvagya Upadhyay and Hayato Ushijima
 accepted for publication in the proceeding of ACM Computer Frontiers 2020.
